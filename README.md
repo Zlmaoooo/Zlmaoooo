@@ -1,7 +1,12 @@
-![MasterHead](https://i.pinimg.com/originals/2f/b4/af/2fb4af8e62bb4fff1e61c9d8115613be.gif)
+<h1 aling="center">
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com/?font-righteos&size-35&center-true&vCenter-true&width-900&height-70&duration-4000&lines=👋+Welcome+to+my+GitHub+profile!;Here,+you'll+find+my+projects+and...;contributions+in+your+areas+of;expertise...;I+love+collaborating+and+sharing...;knowledge...+so;feel+free+to+explore+and;reach+out+if+you’d+like+to+connect!;">
+   </a>
+</h1>
+
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/1463-wave.gif">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font-righteos&size-35&center-true&vCenter-true&width-500&height-70&duration-4000&lines=Wellcome+to+my+profile;I+am+Zlmaoooo!;Here+below+is+about+me)](https://git.io/typing-svg)
-# 💫 About Me:
+
+
 Hello! My name is Sajidul Hoque Ahmed, and I am a fresher pursuing a B.Tech in Computer Science Engineering at ADTU, powered by Sunstone. My fascination with computers began in childhood, where I spent countless hours playing games and exploring the intricacies of how they worked. This early exposure ignited my passion for technology and led me to pursue a career in the field of computer science.<br><br>
 
 📖 **Dual Focus on Learning** : Currently immersing myself in C programming and web development to strengthen foundational skills while gaining practical experience in creating dynamic web applications.
@@ -41,11 +46,8 @@ Through my studies and projects, I aspire to make a positive impact in the tech 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZLmaoooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <hr>
-<div aling = "center">
 
 [![](https://visitcount.itsvg.in/api?id=ZLmaoooo&icon=0&color=3)](https://visitcount.itsvg.in)
-
-</div>
 
 
 
