@@ -1,5 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/b4/af/2fb4af8e62bb4fff1e61c9d8115613be.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wellcome+to+my+profile;I+am+Zlmaoooo!)](https://git.io/typing-svg)
+<img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/1463-wave.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font-righteos&size-35&center-true&vCenter-true&width-500&height-70&duration-4000&lines=Wellcome+to+my+profile;I+am+Zlmaoooo!;Here+below+is+about+me)](https://git.io/typing-svg)
 # 💫 About Me:
 Hello! My name is Sajidul Hoque Ahmed, and I am a fresher pursuing a B.Tech in Computer Science Engineering at ADTU, powered by Sunstone. My fascination with computers began in childhood, where I spent countless hours playing games and exploring the intricacies of how they worked. This early exposure ignited my passion for technology and led me to pursue a career in the field of computer science.<br><br>
 
