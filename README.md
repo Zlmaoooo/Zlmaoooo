@@ -16,7 +16,7 @@ Hello! My name is Sajidul Hoque Ahmed, and I am a fresher pursuing a B.Tech in C
 🚀 **Future Ambitions**: Aspiring to become an exceptional programmer and excited to participate in the Smart India Hackathon (SIH) 2025 to apply my skills in solving real-world challenges.
 
 Through my studies and projects, I aspire to make a positive impact in the tech world, pushing the boundaries of what’s possible and inspiring others along the way.
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+
 
 ## 📫 How to Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worksajidul@gmail.com)
