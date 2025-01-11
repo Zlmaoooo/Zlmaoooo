@@ -7,15 +7,10 @@
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/1463-wave.gif">
 
 
-Hello! My name is Sajidul Hoque Ahmed, and I am a fresher pursuing a B.Tech in Computer Science Engineering at ADTU, powered by Sunstone. My fascination with computers began in childhood, where I spent countless hours playing games and exploring the intricacies of how they worked. This early exposure ignited my passion for technology and led me to pursue a career in the field of computer science.<br><br>
-
-📖 **Dual Focus on Learning** : Currently immersing myself in C programming and web development to strengthen foundational skills while gaining practical experience in creating dynamic web applications.
-
-🤖 **Collaborative Projects**: Actively collaborating on a web project with friends, enhancing technical skills and fostering teamwork and problem-solving abilities.
-
-🚀 **Future Ambitions**: Aspiring to become an exceptional programmer and excited to participate in the Smart India Hackathon (SIH) 2025 to apply my skills in solving real-world challenges.
-
-Through my studies and projects, I aspire to make a positive impact in the tech world, pushing the boundaries of what’s possible and inspiring others along the way.
+- 👋 **Introduction**: I’m Sajidul Hoque Ahmed, a B.Tech CSE fresher at ADTU, powered by Sunstone, with a lifelong passion for technology and computers.  
+- 📚 **Skills in Progress**: Currently learning C programming, Java, Python, and web development to strengthen my foundation and build dynamic web applications.  
+- 🤝 **Teamwork & Projects**: Collaborating on web projects with friends, improving technical skills and problem-solving.  
+- 🚀 **Future Goals**: Aspiring to excel as a programmer and participate in SIH 2025 to tackle real-world challenges with innovative tech solutions.  
 
 
 ## 📫 How to Reach Me
