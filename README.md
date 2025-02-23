@@ -1,51 +1,72 @@
-<h1 aling="center">
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?font-righteos&size-35&center-true&vCenter-true&width-900&height-70&duration-4000&lines=👋+Welcome+to+my+GitHub+profile!;Here,+you'll+find+my+projects+and...;contributions+in+your+areas+of;expertise...;I+love+collaborating+and+sharing...;knowledge...+so;feel+free+to+explore+and;reach+out+if+you’d+like+to+connect!;">
-   </a>
-</h1>
+# AlgoMate 🚀
 
-<img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/1463-wave.gif">
+AlgoMate is a **feature-rich advanced calculator** built with Java Swing. It provides a clean and interactive GUI to perform basic and advanced arithmetic operations seamlessly. This project was developed as part of our **college team project**, where we explored Java GUI programming and Git collaboration.
 
+---
 
-- 👋 **Introduction**: I’m Sajidul Hoque Ahmed, a B.Tech CSE fresher at ADTU, powered by Sunstone, with a lifelong passion for technology and computers.  
-- 📚 **Skills in Progress**: Currently learning C programming, Java, Python, and web development to strengthen my foundation and build dynamic web applications.  
-- 🤝 **Teamwork & Projects**: Collaborating on web projects with friends, improving technical skills and problem-solving.  
-- 🚀 **Future Goals**: Aspiring to excel as a programmer and participate in SIH 2025 to tackle real-world challenges with innovative tech solutions.  
+## ✨ Features
 
+- 📌 **User-friendly GUI** with interactive buttons
+- 🔢 **Basic Arithmetic Operations** (Addition, Subtraction, Multiplication, Division)
+- 🧮 **Advanced Calculation Support** (Expression evaluation)
+- 🎨 **Modern Interface** using Java Swing
 
-## 📫 How to Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worksajidul@gmail.com)
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8kGabWKpMB) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aalpha.sabji/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnotsaji) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajidul-ahmed-b5177a312/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27623176/zlmaoooo) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Z_lmaoooo/)
-[![LeetCode](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_z0z_z0z_)
+## 📸 Preview
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+(Attach screenshots or GIFs of your application here)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZLmaoooo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=ZLmaoooo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZLmaoooo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZLmaoooo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
 
-<img align="center" alt="Coding" width="900" src="https://raw.githubusercontent.com/Platane/snk/d6079847772696821d1339819f7518582eb1f9cc/github-contribution-grid-snake.svg">
+- **Language:** Java ☕
+- **Framework:** Swing (Java GUI)
+- **Version Control:** Git & GitHub 🐙
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZLmaoooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<hr>
+## 📥 Installation & Running the Project
 
-[![](https://visitcount.itsvg.in/api?id=ZLmaoooo&icon=0&color=3)](https://visitcount.itsvg.in)
+Follow these steps to clone and run **AlgoMate** locally:
 
+### 🔹 Clone the Repository
+```sh
+ git clone https://github.com/Zlmaoooo/AlgoMate.git
+```
 
+### 🔹 Navigate to the Project Directory
+```sh
+ cd AlgoMate
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔹 Compile and Run
+```sh
+ javac AlgoMate.java  # Compile the Java files
+ java AlgoMate        # Run the application
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! To contribute:
+1. Fork the repository 🍴
+2. Create a new branch (`git checkout -b feature-name`) 🌿
+3. Make your changes and commit (`git commit -m 'Added new feature'`) 📝
+4. Push the branch (`git push origin feature-name`) 📤
+5. Open a Pull Request 🚀
+
+---
+
+## 📄 License
+
+This project is **open-source** and free to use. Feel free to modify and improve it! 🛠️
+
+---
+
+## 👨‍💻 Authors
+
+- **Team AlgoMate** (Your 10-member team) ✨
+- Special thanks to everyone who contributed! 🙌
