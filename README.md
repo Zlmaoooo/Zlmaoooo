@@ -13,7 +13,7 @@ Hey there! I'm Sajidul Ahmed, a B.Tech CSE student at Assam Down Town University
 <br/>
 <br/>
 
-
+<div align="center">
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -87,12 +87,16 @@ Hey there! I'm Sajidul Ahmed, a B.Tech CSE student at Assam Down Town University
   </div>
 
 </details>
+</div>
+
+<div align="center">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zlmaoooo&theme=aura_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Zlmaoooo's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zlmaoooo&bg_color=0f0f0f&color=ff4c4c&line=ff4c4c&point=ffffff&area=true&area_color=ff4c4c&hide_border=true)](https://github.com/Zlmaoooo)
+</div>
 
 <div align="center">
 
