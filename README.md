@@ -188,7 +188,7 @@ Connect With Me
 
 <div align="center"> VISITORS </div>
       <div align="center">
-        <img src="https://profile-counter.glitch.me/LungsomLamniov/count.svg"/>
+        <img src="https://profile-counter.glitch.me/Zlmaoooo/count.svg"color=0f0f0f& color =ff4c4c />
       </div>
 </div>
 
