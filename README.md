@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Zlmaoooo/Zlmaoooo/blob/main/gif/asta3.gif" width="1000" height="340" > 
+<img src="https://github.com/Zlmaoooo/Zlmaoooo/blob/main/gif/asta4.gif" width="1000" height="340" > 
 
 <br/>
 <br/>
