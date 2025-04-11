@@ -148,7 +148,7 @@ Hey there! I'm Sajidul Ahmed, a B.Tech CSE student at Assam Down Town University
 
 ## 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=radical&color=FF4C4C&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=zlmaoooo&theme=radical&color=FF4C4C&no-bg=true)
 </div>
 
 <br/>
