@@ -146,6 +146,39 @@ Hey there! I'm Sajidul Ahmed, a B.Tech CSE student at Assam Down Town University
 <br/>
 <br/>
 
+## 🌟 Support My Work
+
+<table>
+  <tr>
+    <td>
+      <h3>▶️ My YouTube Channel</h3>
+      <a href="https://www.youtube.com/@Zlmaoooo" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Zlmaoooo" alt="YouTube Channel" height="30">
+      </a>
+      <br><br>
+      <a href="https://www.youtube.com/@Zlmaoooo" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/views/UC_1hXCdM-D6gZQmGT3B6zGQ?label=Channel%20Views&style=flat&color=red" alt="Channel Views">
+      </a>
+    </td>
+    <td style="text-align:center">
+      <h3>☕ Support Me</h3>
+      <a href="https://ko-fi.com/U6U61B50BS" target="_blank">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
+
+🔔 [Subscribe for more content](https://www.youtube.com/@Zlmaoooo?sub_confirmation=1)
+<div align="center">
+  <br>
+  <a href="https://www.youtube.com/@Zlmaoooo?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/SUBSCRIBE-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe">
+  </a>
+</div>
+<br/>
+<br/>
+
 ## 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=zlmaoooo&theme=radical&color=FF4C4C&no-bg=true)
@@ -161,6 +194,8 @@ Hey there! I'm Sajidul Ahmed, a B.Tech CSE student at Assam Down Town University
 </div>
 
 <div align="center">
+<br/>
+<br/>
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
   <h1>
