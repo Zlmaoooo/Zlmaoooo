@@ -14,7 +14,7 @@
 <hr>
 
 <div align="center">
-Hey there! I'm Sajidul Ahmed, a B.Tech CSE student at Assam Down Town University. I have an insatiable curiosity for learning and exploring new domains of knowledge. Whether it's full-stack web development, cybersecurity, or anything tech-related—when I step into a new field, I don’t just learn, I dominate it. 🚀🔥
+Hey there! I'm Sajidul Ahmed, a B.Tech CSE student. I have an insatiable curiosity for learning and exploring new domains of knowledge. Whether it's full-stack web development, cybersecurity, or anything tech-related—when I step into a new field, I don’t just learn, I dominate it. 🚀🔥
 </div>
 
 <br/>
