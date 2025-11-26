@@ -11,14 +11,22 @@
   </a>
 </div>
 
-<hr>
+---
 
 <div align="center">
-Hey there! I'm Sajidul Ahmed, a B.Tech CSE student. I have an insatiable curiosity for learning and exploring new domains of knowledge. Whether it's full-stack web development, cybersecurity, or anything tech-related—when I step into a new field, I don’t just learn, I dominate it. 🚀🔥
+
+## 💫 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+
+**B.Tech CSE Student | Full-Stack Developer | Tech Enthusiast**
+
+Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curiosity for learning and exploring new domains of knowledge. Whether it's full-stack web development, cybersecurity, or anything tech-related—when I step into a new field, I don't just learn, **I dominate it**. 🚀🔥
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+
 </div>
 
-<br/>
-<br/>
 <br/>
 
 <div align="center">
@@ -131,111 +139,149 @@ Hey there! I'm Sajidul Ahmed, a B.Tech CSE student. I have an insatiable curiosi
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zlmaoooo&theme=aura_dark&hide_border=false)
+
+
+![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Zlmaoooo&theme=aura_dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
-<br/>
 
-[![Zlmaoooo's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zlmaoooo&bg_color=0f0f0f&color=ff4c4c&line=ff4c4c&point=ffffff&area=true&area_color=ff4c4c&hide_border=true)](https://github.com/Zlmaoooo)
 
+<br/>
 
 <div align="center">
 
-<br/>
+[![Zlmaoooo's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zlmaoooo&bg_color=0f0f0f&color=ff4c4c&line=ff4c4c&point=ffffff&area=true&area_color=ff4c4c&hide_border=true)](https://github.com/Zlmaoooo)
+
+</div>
+
+---
+
 <br/>
 
-## 🌟 Support My Work
+
+
+
+#  Connect & Collaborate
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BACF7&center=true&vCenter=true&width=600&lines=Let's+Create+Something+Amazing!;Open+to+Collaborations+%F0%9F%A4%9D;Building+the+Future+Together+%F0%9F%9A%80" alt="Typing SVG">
+
+---
 
 <table>
   <tr>
-    <td>
-      <h3>▶️ My YouTube Channel</h3>
+    <!-- YouTube Section -->
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="60" />
+      <h3> Content Creator</h3>
+      <p><i>Join me on my coding journey!</i></p>
       <a href="https://www.youtube.com/@Zlmaoooo" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Zlmaoooo" alt="YouTube Channel" height="30">
+        <img src="https://img.shields.io/badge/Zlmaoooo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
       </a>
       <br><br>
-      <a href="https://www.youtube.com/@Zlmaoooo" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/views/UC_1hXCdM-D6gZQmGT3B6zGQ?label=Channel%20Views&style=flat&color=red" alt="Channel Views">
+      <a href="https://www.youtube.com/@Zlmaoooo">
+        <img src="https://img.shields.io/youtube/channel/views/UC641u9bztPigzaMxY0qmZTg?style=for-the-badge&logo=youtube&logoColor=red&labelColor=2b2d42&color=8d99ae" alt="Views">
+      </a>
+      <br><br>
+      <a href="https://www.youtube.com/@Zlmaoooo?sub_confirmation=1">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe">
       </a>
     </td>
-    <td style="text-align:center">
-      <h3>☕ Support Me</h3>
+    <!-- Support Section -->
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="60" />
+      <h3> Support the Journey</h3>
+      <p><i>Your support keeps me motivated!</i></p>
       <a href="https://ko-fi.com/U6U61B50BS" target="_blank">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" height="40">
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Ko-fi">
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="80">
+      <br>
+      <sub><b>Every contribution helps! </b></sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+---
+
+### 🌐 Let's Connect Across Platforms
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sajidul-ahmed-b5177a312/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="LinkedIn" width="50" />
+        <br>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/8kGabWKpMB" target="_blank">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Discord" width="50" />
+        <br>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Z_lmaoooo/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="LeetCode" width="50" />
+        <br>
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Portfolio" width="60" />
+        <br>
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
       </a>
     </td>
   </tr>
 </table>
 
-🔔 [Subscribe for more content](https://www.youtube.com/@Zlmaoooo?sub_confirmation=1)
-<div align="center">
-  <br>
-  <a href="https://www.youtube.com/@Zlmaoooo?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/SUBSCRIBE-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe">
-  </a>
-</div>
-<br/>
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=zlmaoooo&theme=radical&color=FF4C4C&no-bg=true)
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
-<div align="center">
-<br/>
-<br/>
-
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
-  <h1>
-Connect With Me 
-  </h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-ahmed-b5177a312/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Z_lmaoooo/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8kGabWKpMB)
-
-</div>
-
-
-<br/>
-<br/>
-<br/>
-
-
-<div align="center">
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Zlmaoooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zlmaoooo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<div align="center"> VISITORS </div>
-      <div align="center">
-        <img src="https://profile-counter.glitch.me/Zlmaoooo/count.svg"color=0f0f0f& color =ff4c4c />
-      </div>
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=zlmaoooo&theme=radical&color=FF4C4C&no-bg=true)
+
 </div>
 
-<br/>
-<br/>
-<br/>
+---
+
+<div align="center">
+
+## 🎖️ Badges & Achievements
 
 [![An image of @zlmaoooo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zlmaoooo)](https://holopin.io/@zlmaoooo)
+
+</div>
+
+---
+
+<div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zlmaoooo&label=Profile%20Views&color=3bacf7&style=for-the-badge&logo=eye" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" />
+  <br>
+  <sub><i>Thanks for visiting! Come back soon! 👋</i></sub>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
