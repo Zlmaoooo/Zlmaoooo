@@ -171,9 +171,9 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 
 
 
-
-#  Connect & Collaborate
 <div align="center">
+#  Connect & Collaborate
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BACF7&center=true&vCenter=true&width=600&lines=Let's+Create+Something+Amazing!;Open+to+Collaborations+%F0%9F%A4%9D;Building+the+Future+Together+%F0%9F%9A%80" alt="Typing SVG">
 
