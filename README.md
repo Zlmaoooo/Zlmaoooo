@@ -141,11 +141,21 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Zlmaoooo&theme=aura_dark&hide_border=false)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zlmaoooo&theme=aura_dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br/>
 
+### 📈 Contribution Stats
+
+![](https://github-contributor-stats.vercel.app/api?username=Zlmaoooo&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
+
+</div>
 
 <br/>
 
@@ -159,10 +169,11 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 
 <br/>
 
-<div align="center">
-  
-#  Connect & Collaborate
 
+
+
+#  Connect & Collaborate
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BACF7&center=true&vCenter=true&width=600&lines=Let's+Create+Something+Amazing!;Open+to+Collaborations+%F0%9F%A4%9D;Building+the+Future+Together+%F0%9F%9A%80" alt="Typing SVG">
 
@@ -219,6 +230,13 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
       </a>
     </td>
     <td align="center">
+      <a href="https://www.instagram.com/iamnotsaji/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Instagram" width="50" />
+        <br>
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+      </a>
+    </td>
+    <td align="center">
       <a href="https://discord.gg/8kGabWKpMB" target="_blank">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Discord" width="50" />
         <br>
@@ -234,7 +252,7 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
     </td>
     <td align="center">
       <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Portfolio" width="60" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Portfolio" width="50" />
         <br>
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
       </a>
