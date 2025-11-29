@@ -17,13 +17,11 @@
 
 ## 💫 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 **DevOps Engineer | Java & Python Developer | Data Scientist | Tech Enthusiast**
 
 Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curiosity for learning and exploring new domains of knowledge. Whether it's full-stack web development, cybersecurity, or anything tech-related—when I step into a new field, I don't just learn, **I dominate it**. 🚀🔥
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 </div>
 
