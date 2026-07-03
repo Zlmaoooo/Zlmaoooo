@@ -229,7 +229,7 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/iamnotsaji/" target="_blank">
+      <a href="https://www.instagram.com/friz.overdoer/" target="_blank">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Instagram" width="50" />
         <br>
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
