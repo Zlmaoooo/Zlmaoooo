@@ -169,13 +169,12 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 </div>
 <br/>
 
+<div align="center">
+  
 ### 📈 Contribution Stats
-
 ![](https://github-contributor-stats.vercel.app/api?username=Zlmaoooo&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
 </div>
-
-<br/>
 
 <div align="center">
 
