@@ -149,14 +149,16 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 -->
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Zlmaoooo&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats-six-zeta-75.vercel.app/api?username=Zlmaoooo&show_icons=true&bg_color=2B2738&title_color=FF6E6E&text_color=EAEAEA&icon_color=7FFFD4&border_color=FFFFFF"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmaoooo&layout=compact&langs_count=6&theme=aura_dark&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats-six-zeta-75.vercel.app/api/top-langs/?username=Zlmaoooo&layout=compact&langs_count=6&bg_color=2B2738&title_color=FF6E6E&text_color=EAEAEA&border_color=FFFFFF"/>
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zlmaoooo&theme=aura_dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zlmaoooo&background=2B2738&ring=FF6E6E&fire=FF6E6E&currStreakLabel=7FFFD4&sideLabels=EAEAEA&dates=EAEAEA&sideNums=FF6E6E&currStreakNum=7FFFD4&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats)
+
+</div>
 
 </div>
 
