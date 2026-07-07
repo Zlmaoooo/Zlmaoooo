@@ -141,12 +141,30 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zlmaoooo&theme=aura_dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmaoooo&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Zlmaoooo&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmaoooo&layout=compact&langs_count=6&theme=aura_dark&hide_border=false"/>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zlmaoooo&theme=aura_dark&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 <br/>
 
 ### 📈 Contribution Stats
