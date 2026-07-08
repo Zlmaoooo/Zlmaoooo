@@ -149,9 +149,9 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 -->
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-six-zeta-75.vercel.app/api?username=Zlmaoooo&show_icons=true&bg_color=2B2738&title_color=FF6E6E&text_color=EAEAEA&icon_color=7FFFD4&border_color=FFFFFF"/>
+  <img height="150em" src="https://github-readme-stats-six-zeta-75.vercel.app/api?username=Zlmaoooo&show_icons=true&bg_color=2B2738&title_color=FF6E6E&text_color=EAEAEA&icon_color=7FFFD4&border_color=FFFFFF"/>
 
-  <img height="170em" src="https://github-readme-stats-six-zeta-75.vercel.app/api/top-langs/?username=Zlmaoooo&layout=compact&langs_count=6&bg_color=2B2738&title_color=FF6E6E&text_color=EAEAEA&border_color=FFFFFF"/>
+  <img height="150em" src="https://github-readme-stats-six-zeta-75.vercel.app/api/top-langs/?username=Zlmaoooo&layout=compact&langs_count=6&bg_color=2B2738&title_color=FF6E6E&text_color=EAEAEA&border_color=FFFFFF"/>
 </div>
 
 <div align="center">
