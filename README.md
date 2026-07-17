@@ -107,13 +107,13 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       </div>
     </div>
-    <div class="category">
+    <!-- <div class="category">
       <h3>DevOps & Tools</h3>
       <div class="techs">
         <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
         <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta">
       </div>
-    </div>
+    </div> -->
     <div class="category">
       <h3>DevOps & Tools</h3>
       <div class="techs">
