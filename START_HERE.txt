@@ -1,0 +1,28 @@
+WHERE EACH FILE GOES IN YOUR "Zlmaoooo" REPO
+=============================================
+
+Your repo currently has: README.md, gif/
+
+Copy everything from this "bundle" folder into the ROOT of your
+Zlmaoooo repo folder, keeping the same structure:
+
+  Zlmaoooo/                          <- your repo root
+    scripts/
+      fetch_contributions.py
+      render_heatmap_svg.py
+      make_ascii_svg.py
+      requirements.txt
+    data/
+      contributions.json
+    .github/
+      workflows/
+        update-profile-art.yml
+    contrib-heatmap.svg
+    sajid-ascii.svg
+    README.md                        <- already exists, don't touch yet
+
+That's it -- these are just files sitting next to your existing
+README.md. Nothing is wired into the README yet; that's the next
+step after this one.
+
+Follow the numbered steps in chat after you've copied these in.
