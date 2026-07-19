@@ -200,6 +200,6 @@ if __name__ == "__main__":
     username = os.environ.get("GH_PROFILE_USER", "Zlmaoooo")
     data = json.load(open(IN_PATH))
     svg = render(data, username=username)
-    with open(OUT_PATH, "w") as f:
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"wrote {OUT_PATH} ({len(svg)} bytes)")

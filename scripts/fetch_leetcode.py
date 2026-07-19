@@ -63,7 +63,7 @@ if __name__ == "__main__":
     }
 
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
-    with open(OUT_PATH, "w") as f:
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2)
 
     print(f"wrote {OUT_PATH}: {result['total_solved']} solved "

@@ -20,7 +20,7 @@ import random
 import os
 
 # ---- the one line you change -------------------------------------------
-STYLE = "donut"   # "donut" | "rain" | "boot"
+STYLE = "rain"   # "donut" | "rain" | "boot"
 # ---------------------------------------------------------------------
 
 HERE = os.path.dirname(__file__)
@@ -188,7 +188,11 @@ def build_svg(frame_texts, seconds_per_frame=0.12, monochrome=True):
 
     top = TITLEBAR_H + PAD
     for i, rows in enumerate(frame_texts):
-        delay = -(i * seconds_per_frame)
+        # positive delay = i * seconds_per_frame -- plays frames FORWARD in
+        # generation order. (A previous version used a negative delay here,
+        # which due to how CSS animation-delay phase-shifting works, played
+        # frames in REVERSE order -- e.g. rain appeared to fall upward.)
+        delay = i * seconds_per_frame
         g = [f'<g class="frame" style="animation-delay:{delay:.4f}s">']
         if monochrome:
             for r, line in enumerate(rows):
@@ -246,6 +250,6 @@ if __name__ == "__main__":
     else:
         raise SystemExit(f"unknown STYLE: {STYLE!r}")
 
-    with open(OUT_PATH, "w") as f:
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"[{STYLE}] wrote {OUT_PATH} ({len(svg)} bytes, {len(frames)} frames)")
