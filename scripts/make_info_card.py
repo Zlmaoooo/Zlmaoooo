@@ -81,54 +81,59 @@ def rise(inner, i):
             f'begin="{delay:.2f}s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>')
 
 
-parts = [
-    f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
-    f'font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">',
-    '<defs>'
-    f'<linearGradient id="ibg" x1="0" y1="0" x2="0" y2="1">'
-    f'<stop offset="0" stop-color="{BG2}"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>',
-    f'<rect width="{W}" height="{H}" rx="12" fill="url(#ibg)"/>',
-    f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="12" fill="none" stroke="{FRAME}" stroke-opacity="0.55"/>',
-    f'<line x1="0" y1="{TITLEBAR_H}" x2="{W}" y2="{TITLEBAR_H}" stroke="{FRAME}" stroke-opacity="0.35"/>',
-]
-for i, dotcol in enumerate(["#FF6E6E", "#F2CC60", "#7FFFD4"]):
-    parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
-parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">zlmaoooo@nexus: ~$ neofetch</text>')
+def build_and_write():
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
+        f'font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">',
+        '<defs>'
+        f'<linearGradient id="ibg" x1="0" y1="0" x2="0" y2="1">'
+        f'<stop offset="0" stop-color="{BG2}"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>',
+        f'<rect width="{W}" height="{H}" rx="12" fill="url(#ibg)"/>',
+        f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="12" fill="none" stroke="{FRAME}" stroke-opacity="0.55"/>',
+        f'<line x1="0" y1="{TITLEBAR_H}" x2="{W}" y2="{TITLEBAR_H}" stroke="{FRAME}" stroke-opacity="0.35"/>',
+    ]
+    for i, dotcol in enumerate(["#FF6E6E", "#F2CC60", "#7FFFD4"]):
+        parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
+    parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
+                 f'text-anchor="middle">zlmaoooo@nexus: ~$ neofetch</text>')
 
-y = TITLEBAR_H + 30
-for i, row in enumerate(ROWS):
-    kind = row[0]
-    if kind == "gap":
-        y += LINE_H * 0.5
-        continue
-    if kind == "host":
-        inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
-                 f'<tspan fill="{GREEN}">zlmaoooo</tspan><tspan fill="{MUTED}">@</tspan>'
-                 f'<tspan fill="{ACCENT}">nexus</tspan></text>'
-                 f'<line x1="{KEY_X+140}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
-                 f'stroke="{FRAME}" stroke-opacity="0.5"/>')
-    elif kind == "sec":
-        title = esc(row[1])
-        inner = (f'<text x="{KEY_X}" y="{y:.1f}" fill="{SECTION}" font-size="12.5" font-weight="700">'
-                 f'&#8212; {title}</text>'
-                 f'<line x1="{KEY_X + 12 + len(row[1])*8}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
-                 f'stroke="{FRAME}" stroke-opacity="0.5"/>')
-    elif kind == "kv":
-        key, val = esc(row[1]), esc(row[2])
-        inner = (f'<text x="{KEY_X}" y="{y:.1f}" fill="{KEY}" font-size="12.5" font-weight="700">{key}</text>'
-                 f'<text x="{VAL_X}" y="{y:.1f}" fill="{INK}" font-size="11.5">{val}</text>')
-    elif kind == "bul":
-        txt = esc(row[1])
-        inner = (f'<circle cx="{KEY_X+3}" cy="{y-4:.1f}" r="2.5" fill="{GREEN}"/>'
-                 f'<text x="{KEY_X+14}" y="{y:.1f}" fill="{INK}" font-size="12.5">{txt}</text>')
-    else:
-        continue
-    parts.append(rise(inner, i))
-    y += LINE_H
+    y = TITLEBAR_H + 30
+    for i, row in enumerate(ROWS):
+        kind = row[0]
+        if kind == "gap":
+            y += LINE_H * 0.5
+            continue
+        if kind == "host":
+            inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
+                     f'<tspan fill="{GREEN}">zlmaoooo</tspan><tspan fill="{MUTED}">@</tspan>'
+                     f'<tspan fill="{ACCENT}">nexus</tspan></text>'
+                     f'<line x1="{KEY_X+140}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
+                     f'stroke="{FRAME}" stroke-opacity="0.5"/>')
+        elif kind == "sec":
+            title = esc(row[1])
+            inner = (f'<text x="{KEY_X}" y="{y:.1f}" fill="{SECTION}" font-size="12.5" font-weight="700">'
+                     f'&#8212; {title}</text>'
+                     f'<line x1="{KEY_X + 12 + len(row[1])*8}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
+                     f'stroke="{FRAME}" stroke-opacity="0.5"/>')
+        elif kind == "kv":
+            key, val = esc(row[1]), esc(row[2])
+            inner = (f'<text x="{KEY_X}" y="{y:.1f}" fill="{KEY}" font-size="12.5" font-weight="700">{key}</text>'
+                     f'<text x="{VAL_X}" y="{y:.1f}" fill="{INK}" font-size="11.5">{val}</text>')
+        elif kind == "bul":
+            txt = esc(row[1])
+            inner = (f'<circle cx="{KEY_X+3}" cy="{y-4:.1f}" r="2.5" fill="{GREEN}"/>'
+                     f'<text x="{KEY_X+14}" y="{y:.1f}" fill="{INK}" font-size="12.5">{txt}</text>')
+        else:
+            continue
+        parts.append(rise(inner, i))
+        y += LINE_H
 
-parts.append("</svg>")
-svg = "".join(parts)
-with open(OUT, "w", encoding="utf-8") as f:
-    f.write(svg)
-print("wrote", OUT, len(svg), "bytes;", W, "x", H, "content_bottom", round(y))
+    parts.append("</svg>")
+    svg = "".join(parts)
+    with open(OUT, "w", encoding="utf-8") as f:
+        f.write(svg)
+    print("wrote", OUT, len(svg), "bytes;", W, "x", H, "content_bottom", round(y))
+
+
+if __name__ == "__main__":
+    build_and_write()

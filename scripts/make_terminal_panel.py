@@ -23,9 +23,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
 import make_ascii_svg as ascii_mod  # reuse frame generators, safe: guarded by __main__
-import make_info_card as card_mod   # reuse ROWS content (note: importing this module
-                                     # also regenerates info-card.svg as a side effect,
-                                     # which is fine -- keeps it in sync)
+import make_info_card as card_mod   # reuse ROWS/esc/colors -- import itself has no
+                                     # side effects now; we call card_mod.build_and_write()
+                                     # explicitly below when this script is run directly.
 
 # ---- the one line you change -------------------------------------------
 STYLE = "rain"   # "donut" | "rain" | "boot"
@@ -204,6 +204,7 @@ def build():
 
 
 if __name__ == "__main__":
+    card_mod.build_and_write()   # explicit now, not an import side effect
     svg = build()
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         f.write(svg)

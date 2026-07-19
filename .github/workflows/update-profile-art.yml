@@ -25,6 +25,7 @@ jobs:
       - run: python scripts/fetch_contributions.py
       - run: python scripts/render_heatmap_svg.py
       - run: python scripts/fetch_leetcode.py
+      - run: python scripts/make_info_card.py
       - run: python scripts/make_terminal_panel.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
