@@ -28,7 +28,7 @@ import make_info_card as card_mod   # reuse ROWS/esc/colors -- import itself has
                                      # explicitly below when this script is run directly.
 
 # ---- the one line you change -------------------------------------------
-STYLE = "rain"   # "donut" | "rain" | "boot"
+STYLE = "donut"   # "donut" | "rain" | "boot"
 # ---------------------------------------------------------------------
 
 OUT_PATH = os.path.join(HERE, "..", "terminal-panel.svg")
