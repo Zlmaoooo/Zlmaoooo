@@ -4,6 +4,9 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Sajidul+Ahmed+%F0%9F%91%8B;Hi!+This+is+my+GitHub+repository;I+am+a+learner+and+explorer;Passionate+about+Web+Development" alt="Typing SVG" />
 
+<br/>
+<br/>
+
 <img src="./terminal-panel.svg" width="877" alt="Terminal-style identity card: animated ASCII rain next to a neofetch-style summary of Sajid's status, current projects, stack, and highlights" />
 
   </a>
@@ -163,7 +166,7 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
   
 <!--![](https://github-contributor-stats.vercel.app/api?username=Zlmaoooo&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)-->
 
-<img src="https://github-repository-contribution-stat-teal.vercel.app/api?username=Zlmaoooo&limit=5&theme=aura_dark&combine_all_yearly_contributions=true" alt="Sajid's GitHub Repository Contribution Stats" />
+<!--<img src="https://github-repository-contribution-stat-teal.vercel.app/api?username=Zlmaoooo&limit=5&theme=aura_dark&combine_all_yearly_contributions=true" alt="Sajid's GitHub Repository Contribution Stats" />-->
 
 
 </div>
