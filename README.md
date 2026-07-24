@@ -191,16 +191,13 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
 <div align="center">
   
 #  Connect & Collaborate
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BACF7&center=true&vCenter=true&width=600&lines=Let's+Create+Something+Amazing!;Open+to+Collaborations+%F0%9F%A4%9D;Building+the+Future+Together+%F0%9F%9A%80" alt="Typing SVG">
 
----
 
 <table>
   <tr>
     <!-- YouTube Section -->
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="60" />
       <h3> Content Creator</h3>
       <p><i>Join me on my coding journey!</i></p>
@@ -217,7 +214,7 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
       </a>
     </td>
     <!-- Support Section -->
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="60" />
       <h3> Support the Journey</h3>
       <p><i>Your support keeps me motivated!</i></p>
@@ -229,13 +226,40 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
       <br>
       <sub><b>Every contribution helps! </b></sub>
     </td>
+    <!-- Instagram Section -->
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Camera" width="60" />
+      <h3> Behind the Scenes</h3>
+      <p><i>Follow my day-to-day journey!</i></p>
+      <a href="https://www.instagram.com/friz.overdoer/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+      <br><br>
+      <a href="https://www.instagram.com/friz.overdoer/">
+        <img src="https://img.shields.io/badge/Follow-Friz.overdoer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow">
+      </a>
+    </td>
+    <!-- Discord Section -->
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
+      <h3> Join Nexus</h3>
+      <p><i>100+ Astralites and counting!</i></p>
+      <a href="https://discord.gg/8kGabWKpMB" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+      <br><br>
+      <a href="https://discord.gg/8kGabWKpMB">
+        <img src="https://img.shields.io/discord/787534858837688330?style=for-the-badge&logo=discord&logoColor=white&label=Join%20Server&color=5865F2" alt="Join Server">
+      </a>
+    </td>
+
   </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 
-### 🌐 Let's Connect Across Platforms
+### 🌐 Other Places to Find Me
 
 <table>
   <tr>
@@ -244,20 +268,6 @@ Hey there! I'm **Sajidul Ahmed**, a passionate developer with an insatiable curi
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="LinkedIn" width="50" />
         <br>
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/friz.overdoer/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Instagram" width="50" />
-        <br>
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/8kGabWKpMB" target="_blank">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Discord" width="50" />
-        <br>
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
       </a>
     </td>
     <td align="center">
